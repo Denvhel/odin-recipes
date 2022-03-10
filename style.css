@@ -1,0 +1,17 @@
+ul {
+    background-color: grey;
+}
+
+ol {
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    margin-left: 10px;
+    color: green;
+}
